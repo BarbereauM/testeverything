@@ -1,3 +1,3 @@
 # testeverything
 
-[![trophy](https://github-BarbereauM-trophy.vercel.app/?username=ryo-ma&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=BarbereauM-ma&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
